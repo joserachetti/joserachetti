@@ -1,4 +1,6 @@
-### Hi. I'm José Rachetti 
+## Hi. I'm José Rachetti 
+
+ I'm developer,currently working in freelance,creating webs,server configurations and apps.
 
 <!--
 **joserachetti/joserachetti** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -16,7 +18,7 @@ Here are some ideas to get you started:
 -->
 
 
-## ⚡ Technologies
+### ⚡ Technologies
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 ![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)

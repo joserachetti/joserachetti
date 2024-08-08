@@ -27,4 +27,5 @@ Here are some ideas to get you started:
 ![FLUTTER](https://img.shields.io/badge/-Flutter-02569B?style=flat-square&logo=flutter)
 
 
-
+### 💬 Let's talk
+My LinkedIn profile: https://uy.linkedin.com/in/jos%C3%A9-rachetti

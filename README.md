@@ -1,6 +1,6 @@
 ## Hi. I'm José Rachetti 
 
-Back Dev.
+Backend Dev.
 
 <!--
 **joserachetti/joserachetti** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

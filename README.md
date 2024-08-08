@@ -29,3 +29,6 @@ Here are some ideas to get you started:
 
 ### 💬 Let's talk
 My LinkedIn profile: https://uy.linkedin.com/in/jos%C3%A9-rachetti
+
+
+V8.8.2024

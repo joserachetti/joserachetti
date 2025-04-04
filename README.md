@@ -34,7 +34,7 @@ Here are some ideas to get you started:
 ![Deno](https://img.shields.io/badge/-Deno-black?style=flat-square&logo=deno)
 ![PHP](https://img.shields.io/badge/-PHP-black?style=flat-square&logo=php)
 
-#### :memo: Database
+#### :memo: Databases
 
 ![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb)
 ![PostgresSQL](https://img.shields.io/badge/-PostgresSQL-black?style=flat-square&logo=postgresql)
